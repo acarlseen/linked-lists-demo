@@ -1,0 +1,14 @@
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/bin/Debug/net8.0/LinkedLists
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/bin/Debug/net8.0/LinkedLists.deps.json
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/bin/Debug/net8.0/LinkedLists.runtimeconfig.json
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/bin/Debug/net8.0/LinkedLists.dll
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/bin/Debug/net8.0/LinkedLists.pdb
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/LinkedLists.AssemblyInfoInputs.cache
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/LinkedLists.AssemblyInfo.cs
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/LinkedLists.csproj.CoreCompileInputs.cache
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/LinkedLists.dll
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/refint/LinkedLists.dll
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/LinkedLists.pdb
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/LinkedLists.genruntimeconfig.cache
+/Users/acarlseen/Documents/C_Sharp/Tutorials/LinkedLists/obj/Debug/net8.0/ref/LinkedLists.dll
